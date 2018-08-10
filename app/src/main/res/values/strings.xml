@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LearningAbstract</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_enter_post">EnterTitlePost</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_body">Body</string>
+    <string name="action_submit">Submit</string>
+</resources>
